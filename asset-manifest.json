@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TextEditor/static/css/main.af148ace.css",
+    "main.js": "/TextEditor/static/js/main.dd616667.js",
+    "index.html": "/TextEditor/index.html",
+    "main.af148ace.css.map": "/TextEditor/static/css/main.af148ace.css.map",
+    "main.dd616667.js.map": "/TextEditor/static/js/main.dd616667.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af148ace.css",
+    "static/js/main.dd616667.js"
+  ]
+}
